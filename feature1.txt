@@ -1,3 +1,4 @@
 feature1
 new changes
 feature1 completed
+feature1 modifications
