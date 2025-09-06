@@ -1,4 +1,4 @@
-Version 1
+Version 3
 bug fixed
 feature1 changes
 feature1 completed
